@@ -1,3 +1,6 @@
+# Dataset (do not upload)
+Dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
